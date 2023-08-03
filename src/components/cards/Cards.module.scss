@@ -1,0 +1,13 @@
+$borderRadius : 8px;
+
+.cards {
+    border: 2px solid #0b5ed7;
+    border-radius: $borderRadius;
+}
+.img {
+    border-radius: $borderRadius $borderRadius 0 0;
+}
+.badge {
+    top: 10px;
+    right: 20px;
+}
